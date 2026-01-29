@@ -2,3 +2,4 @@ my new project
 new one
 another one
 from git
+another one from git
